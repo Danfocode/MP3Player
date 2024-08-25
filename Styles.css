@@ -1,11 +1,11 @@
 :root {
   /* colors */
-  --primary-color: #dfdfe2;
+  --primary-color: #ffffff;
   --secondary-color: #ffffff;
-  --app-background-color: #4d4d62;
-  --background-color: #1b1b32;
-  --foreground-color: #3b3b4f;
-  --highlight-color: #f1be32;
+  --app-background-color: #020203;
+  --background-color: #313135;
+  --foreground-color: #0d0d1f;
+  --highlight-color: #f01a1a;
 
   /* font sizes */
   --root-font-size: 16px;
@@ -29,8 +29,8 @@ body {
 }
 
 h1 {
-  font-size: 1.125rem;
-  line-height: 1.6;
+  font-size: 1.2121rem;
+  line-height: 1.4;
 }
 
 h2 {
@@ -80,7 +80,7 @@ ul {
 .parallel-lines {
   display: flex;
   flex-wrap: wrap;
-  row-gap: 6px;
+  row-gap: 5px;
   padding: 0 5px;
 }
 
