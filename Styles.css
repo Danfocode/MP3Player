@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-  font-size: 1.2121rem;
+  font-size: 0.9rem;
   line-height: 1.4;
 }
 
@@ -94,8 +94,9 @@ ul {
 .fcc-title,
 .playlist-title {
   color: var(--secondary-color);
-  margin: 0 10px;
+  margin: 0px 1px;
   font-family: var(--font-headline);
+  
 }
 
 .player-content {
